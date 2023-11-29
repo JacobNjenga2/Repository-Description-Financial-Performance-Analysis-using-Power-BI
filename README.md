@@ -1,9 +1,9 @@
 # Repository-Description-Financial-Performance-Analysis-using-Power-BI
 
+Welcome to the Financial Performance Analysis repository! This project leverages the capabilities of Microsoft Power BI to conduct in-depth analysis of financial data from multiple companies within the accounting services sector. The primary objective is to enhance financial reporting by creating an interactive dashboard that facilitates prompt delivery of crucial financial insights.
 
 # View interactive project on power bi, click link https://app.powerbi.com/view?r=eyJrIjoiNzc0MDU0Y2MtMmNmNS00ZjliLWEyMmMtYzc0MzRiNTIzMzVhIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9 
 
-Welcome to the Financial Performance Analysis repository! This project leverages the capabilities of Microsoft Power BI to conduct in-depth analysis of financial data from multiple companies within the accounting services sector. The primary objective is to enhance financial reporting by creating an interactive dashboard that facilitates prompt delivery of crucial financial insights.
 
 **Project Highlights:**
 1. **Month-wise Sales Insights:**
